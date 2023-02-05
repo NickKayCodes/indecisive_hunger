@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "indecisive-hunger": {
+      "hosting": {
+        "indecisive-hunger": [
+          "indecisive-hunger"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "indecisive-hunger"
+  }
+}
